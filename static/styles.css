@@ -1,0 +1,32 @@
+img {
+    max-width: 100%;
+    height: auto;
+}
+#weather {
+    border-style: groove;
+    border-width: 2px;
+    border-radius: 5px;
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+#hemispheres {
+    margin-top: 15px;
+    text-align: center;
+}
+.card {
+    margin: 0 auto;
+    margin-bottom: 20px;
+    border-style: groove;
+    border-width: 2px;
+    border-radius: 5px;
+    margin-bottom: 15px;
+    padding: 5px;
+}
+.card-text {
+    margin-top: 10px;
+    vertical-align: middle;
+}
+.card {
+    max-width: 100%;
+    height: auto;
+}
